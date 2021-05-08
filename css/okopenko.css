@@ -17,11 +17,6 @@ tei-reg {
   
 }
 
-tei-lb:before {
-  white-space: pre;
-  content: "\A";
-}
-
 tei-surname,
 tei-forename,
 tei-note,
