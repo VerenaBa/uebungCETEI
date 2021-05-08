@@ -4,10 +4,7 @@ p.break {
   border-top: thin solid silver;
   color: gray;
 }
-tei-byline {
-  display: block;
-  text-align: center;
-}	
+	
 body {
     margin: 2%;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "Helvetica", "Arial", "sans-serif";
