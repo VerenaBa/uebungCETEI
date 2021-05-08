@@ -25,6 +25,11 @@ h1 {
 	 background-color: #F7E4E0;
 }
 
+tei-lb:before {
+  white-space: pre;
+  content: "\A";
+}
+
 tei-p,
 tei-reg {
   font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "Helvetica", "Arial", "sans-serif";
