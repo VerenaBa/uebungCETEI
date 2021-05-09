@@ -13,14 +13,14 @@ body {
   line-height: 1.5;
   color: #333333;
   text-align: left;
-  background-color: #F7E4E0;
+  background-color: #E0ECF8;
   margin-top: auto;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
 
 h1 {
-	color: #3A2558;
+	color: #084B8A;
 	font-size: 30px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "Helvetica", "Arial", "sans-serif";
 	font-weight: bold;
@@ -31,10 +31,6 @@ h1 {
 	padding-bottom: 50px;
 }
 
-tei-head {
-  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "Helvetica", "Arial", "sans-serif";
-color: red;
-}
 
 tei-reg {
   font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "Helvetica", "Arial", "sans-serif";
