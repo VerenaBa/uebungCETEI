@@ -4,7 +4,7 @@ p.break {
   border-top: thin solid silver;
   color: gray;
 }
-	
+
 body {
     margin: 2%;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "Helvetica", "Arial", "sans-serif";
@@ -37,7 +37,24 @@ tei-reg {
  margin-after: 50px;
 
 }
+a {
+  text-decoration: none;
+  color: #333333;
+}
+a:hover,
+a:focus {
+  border-bottom: 1px solid #084B8A;
+}
+a:active {
+  color: white;
+  background-color: #084B8A;
+}
 
+
+a:active {
+  color: white;
+  background-color: #084B8A;
+}
 
 tei-surname,
 tei-forename,
