@@ -34,9 +34,7 @@ h1 {
 tei-p,
 tei-reg {
   font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "Helvetica", "Arial", "sans-serif";
-  margin-top: auto;
-	padding-top: 50px;
-	padding-bottom: 50px;
+ margin-after: 50px;
 
 }
 
