@@ -54,7 +54,7 @@
       <div>
         <head>Personenregister</head>
         <p>Das Personenregister enthält alle Personen, die in den edierten Tagebüchern von Andreas
-          Okopenko genannt sind. Es sind sowohl reale als auch fiktive Personen erfasst. </p>
+          Okopenko genannt sind. Es sind sowohl reale als auch fiktive Personen erfasst. Durch Mausklick auf den Namen können die entsprechenden Einträge in der GND, falls vorhanden, aufgerufen werden.</p>
         <listPerson xml:id="okopenko_persons">
           <person xml:id="Absolon_Kurt" role="Bildende_KünstlerInnen" cert="high">
             <persName ref="http://d-nb.info/gnd/118886509">
@@ -2342,7 +2342,7 @@
               Gesellschaft für Literatur besuchte Fried Österreich 1962 wieder, blieb aber zeit
               seines Lebens in London wohnhaft. </note>
             <note resp="gnd">Charakteristischer Beruf: Schriftsteller</note>
-            <note resp="gnd">Beruf: Lyriker, Hörspielautor, Übersetzer, Journalist</note>
+            <note resp="gnd">Beruf: Lyriker, Hörspielautor, Übersetzer, Journalist</note>
           </person>
           <person xml:id="Friedl_Hermann" role="Literaturbetrieb" cert="high">
             <persName ref="http://d-nb.info/gnd/120716860">
@@ -4450,7 +4450,7 @@
               <date when-iso="2002"/>
             </death>
             <note resp="gnd">Charakteristischer Beruf: Schauspielerin</note>
-            <note resp="gnd">Beruf: Chansonnière, Schriftstellerin</note>
+            <note resp="gnd">Beruf: Chansonnière, Schriftstellerin</note>
           </person>
           <person xml:id="Knitschke" role="Familiärer_Bekanntenkreis">
             <persName>
@@ -4725,7 +4725,7 @@
               <date when-iso="2014"/>
             </death>
             <note resp="gnd">Charakteristischer Beruf: Komponist</note>
-            <note resp="gnd">Beruf: Flötist</note>
+            <note resp="gnd">Beruf: Flötist</note>
           </person>
           <person xml:id="Körner_Theodor" role="PolitikerInnen" cert="high">
             <persName ref="http://d-nb.info/gnd/118713493">
